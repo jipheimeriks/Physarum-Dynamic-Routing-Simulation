@@ -13,10 +13,10 @@ The Physarum Dynamic Routing Simulation (PDRS) is a simulation designed to evalu
 
 ## Using the Simulation
 The simulation is written in **Python** using **Jupyter Notebook**.
-The notebook can be opened in Colab  with the folowing link: [![Open In Colab](https://google.com)](https://google.com)
+The notebook can be opened in Colab  with the folowing link: [![Open In Colab](https://githubtocolab.com/jipheimeriks/Physarum-Dynamic-Routing-Simulation)](https://githubtocolab.com/jipheimeriks/Physarum-Dynamic-Routing-Simulation)
 Alternatively it can be opened in Jupyter Notebook,
-therefore Anaconda and Jupyter must be installed via: [![Download Anaconda](https://www.anaconda.com/download)] 
-The notebook can be opened with Visual Studio Code as well. 
+therefore Anaconda and Jupyter must be installed via: [![Download Anaconda](https://www.anaconda.com/download)](https://www.anaconda.com/download) 
+The notebook can be opened with Visual Studio Code as well. Make sure to download the .ipynb code, additionally make sure that Visual Studio Code is installed on your device. 
 
 ### Requirements
 Ensure you have the following Python libraries installed:
